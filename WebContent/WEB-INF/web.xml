@@ -1,0 +1,8 @@
+
+<web-app>
+  <display-name>Registration</display-name>
+  <welcome-file-list>
+    <welcome-file>memberRegistration.jsp</welcome-file>
+    
+  </welcome-file-list>
+</web-app>
